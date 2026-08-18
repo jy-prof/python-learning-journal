@@ -1,2 +1,2 @@
 # python-learning-journal
-This repository contains my Python learning journey with mini-projects, exercises, and notes.
+My Python learning journal with projects and experiments as I continue learning and building with Python.
